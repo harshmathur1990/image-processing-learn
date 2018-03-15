@@ -6,7 +6,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+processed_images/*
 # Ignoring sqlite files
 *.sqlite*
 
