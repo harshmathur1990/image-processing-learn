@@ -3,7 +3,7 @@ __pycache__/
 .DS_Store
 *.py[cod]
 *$py.class
-
+env/
 # C extensions
 *.so
 processed_images/*
