@@ -15,6 +15,6 @@ def get_flip_image(image_path, flip_image_path):
 
 
 if __name__ == "__main__":
-    image_path = 'raw_images/2.jpg'
-    flip_image_path = 'processed_images/2_flipped.jpg'
+    image_path = 'raw_images/dog.png'
+    flip_image_path = 'processed_images/dog_flipped.jpg'
     get_flip_image(image_path, flip_image_path)
